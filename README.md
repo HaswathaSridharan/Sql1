@@ -10,7 +10,6 @@ WHERE area >= 3000000
 OR population >=25000000;
 
 2. Problem 2: Nth Highest Salary (https://leetcode.com/problems/nth-highest-salary/)
-
 Solution:
 
 CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT
