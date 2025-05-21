@@ -1,7 +1,6 @@
 # Sql1
 
 1. Problem 1: Big Countries (https://leetcode.com/problems/big-countries/)
-
 Solution:
 
 SELECT name, population, area
@@ -27,7 +26,6 @@ BEGIN
 END
 
 3. Problem 3: Delete Duplicate Emails (https://leetcode.com/problems/delete-duplicate-emails/)
-
 Solution:
 
 DELETE P1 
