@@ -28,6 +28,7 @@ END
 
 3. Problem 3: Delete Duplicate Emails (https://leetcode.com/problems/delete-duplicate-emails/)
 Solution:
+
 DELETE P1 
 FROM Person P1
 JOIN Person P2
